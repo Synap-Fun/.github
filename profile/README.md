@@ -4,7 +4,7 @@
 **About**<br/>
 We are building the infra to support consumer-focused lending on Solana, we're funded by [Superteam DAO](https://superteam.fun/) and [Solana Foundation](https://solana.org/).
 
-**offerings**
+**Offerings**
 1. Solana Degen Score
 2. User Analytics
 3. Credit Scores
