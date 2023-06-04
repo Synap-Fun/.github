@@ -1,5 +1,5 @@
 ## Synap Fun
-*SSocail Passports on Solana*
+*Socail Passports on Solana*
 
 **About**<br/>
 solana passport is a portable social profile that simplifies usage and social history across solana's decentralized apps, while also holding a user's degen score. this creates a personalized, interoperable, and rewarding experience for the user., we're funded by [Superteam DAO](https://superteam.fun/) and [Solana Foundation](https://solana.org/).
